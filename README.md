@@ -17,7 +17,7 @@ Here are a few things I've picked up along my learning journey.
 [![Spotify](https://img.shields.io/badge/Spotify-000?&style=flat&logo=spotify)](https://open.spotify.com/user/luci02tggquxza2jltjn0oexg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wahyusername24)
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wahyusername24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wahyusername24&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyusername24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
